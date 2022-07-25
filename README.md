@@ -1,16 +1,19 @@
-### Hi there 👋
+### Mi Perfil 👋
 
-<!--
-**KevinGanan/KevinGanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Kevin Ganán, tengo 20 años por el momento y estudio la carrera de Ingeniería en Software en la Universidad Tecnica de Ambato. 
 
-Here are some ideas to get you started:
+Aprecio mucho los conocimientos que me inparten mis ingenieros por lo cual me motiva a llevar lejos por medio de esta carrera y con la bendición de Dios espero cumpli con el objetivo y graduarme.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Propósitos(Metas)
+-Concluir mi carrera.
+-Aprender mas conocimientos.
+
+### Mis estudios los inicie en la Unidad Educativa Giovanni Calles, de ahi obtuve el cupo para poder estudiar esta carrera en la que me encuentro en este momento.
+
+### Experiencia Laboral
+No tengo experiencia laboral por el momento todavia.
+
+### Proyectos
+Por el momento no estoy participando de ningun proyeto pero si ando muy interesado en aplicar uno en los proximos semestres.
+
+### Gracias por su Atención
