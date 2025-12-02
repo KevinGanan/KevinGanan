@@ -53,24 +53,24 @@
 
 <br>
 
-<h2>📚 Educación & Metas</h2>
+<h2>📚 Educación</h2>
 
 <div align="center">
 
 ### 🎓 Formación Académica
 | Nivel Educativo | Institución | Periodo | Estado |
 |----------------|-------------|---------|--------|
-| **Ingeniería en Software** | Universidad Técnica de Ambato | 2025 - Actualidad | <img src="https://img.shields.io/badge/🔄-En_curso-blue?style=flat-square"> |
+| **Ingeniería en Software** | Universidad Técnica de Ambato | 2025 | <img src="https://img.shields.io/badge/🔄-En_curso-blue?style=flat-square"> |
 | **Bachillerato General** | Unidad Educativa Giovanni Calles | 2019 | <img src="https://img.shields.io/badge/✅-Completado-green?style=flat-square"> |
 
 <br>
 
 ### 🎯 Metas Profesionales
-| # | Meta | Descripción | Plazo | Progreso |
+| # | Meta | Descripción | Periódo | Progreso |
 |---|------|-------------|-------|----------|
 | 1 | **Graduación Excelente** | Titulación con promedio destacado | 2026 | 🟢🟢🟢🟢🟢🟢🟢🟢🟢⚪ (90%) |
-| 2 | **Proyecto Destacado** | Aplicación que resuelva problema real | 2026-2028 | 🟢⚪⚪⚪⚪⚪⚪⚪⚪⚪ (10%) |
-| 3 | **Primer Empleo TI** | Experiencia laboral en desarrollo | 2026 | 🟢🟢🟢🟢🟢⚪⚪⚪⚪⚪ (50%) |
+| 2 | **Proyecto Destacado** | Aplicación que resuelva problema real | 2027 | 🟢⚪⚪⚪⚪⚪⚪⚪⚪⚪ (10%) |
+| 3 | **Primer Empleo** | Experiencia laboral en desarrollo | 2026 | 🟢🟢🟢🟢🟢⚪⚪⚪⚪⚪ (50%) |
 | 4 | **Stack Tecnológico** | Dominio full-stack | 2026 | 🟢🟢🟢🟢🟢⚪⚪⚪⚪⚪ (50%) |
 
 </div>
