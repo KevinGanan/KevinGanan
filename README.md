@@ -11,7 +11,7 @@
 <h1 align="center">Hola 👋 Soy Kevin Ganán / Programmer ✨</h1> 
 
 <p align="center">
-  <a href="linkedin.com/in/kevin-ganan-052828386" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kevin Ganán"/></a>
+  <a href="https://www.linkedin.com/in/kevin-ganan-052828386/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kevin Ganán"/></a>
   <a href="mailto:kevinganan2901@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kevin Ganán" /></a>
 </p>
 <br>
@@ -275,7 +275,7 @@
     <a href="mailto:kevinganan2901@gmail.com" target="blank">
       <img src="https://img.shields.io/badge/Gmail-kevinganan2901@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="linkedin.com/in/kevin-ganan-052828386" target="blank">
+    <a href="https://www.linkedin.com/in/kevin-ganan-052828386/" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
