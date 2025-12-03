@@ -224,6 +224,52 @@
 
 <br>
 
+<h2>📜 Certificados</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- CERTIFICADO 1 -->
+      <td align="center" style="vertical-align: top; padding: 8px;">
+        <img
+          src="https://github.com/KevinGanan/assets/blob/main/cer1.png?raw=true"
+          alt="Certificado 1"
+          width="300"
+        />
+        <br>
+      </td>
+      <!-- CERTIFICADO 2 -->
+      <td align="center" style="vertical-align: top; padding: 8px;">
+        <img
+          src="https://github.com/KevinGanan/assets/blob/main/cer2.png?raw=true"
+          alt="Certificado 2"
+          width="300"
+        />
+        <br>
+      </td>
+    </tr>
+    <tr>
+      <!-- CERTIFICADO 3 -->
+      <td align="center" style="vertical-align: top; padding: 8px;">
+        <img
+          src="https://github.com/KevinGanan/assets/blob/main/cer3.png?raw=true"
+          alt="Certificado 3"
+          width="300"
+        />
+        <br>
+      </td>
+      <!-- CERTIFICADO 4 -->
+      <td align="center" style="vertical-align: top; padding: 8px;">
+        <img
+          src="https://github.com/KevinGanan/assets/blob/main/cer4.png?raw=true"
+          alt="Certificado 4"
+          width="300"
+        />
+        <br>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2>📊 GitHub Stats</h2>
 
