@@ -93,7 +93,15 @@
       <br>
       <strong>🚌 ChasquiBus</strong><br>
       <sub>Sistema web para compra de boletos</sub><br>
-      <a href="https://github.com/ChasquiBus/chasquibus-web-front.git" target="_blank">🔗 Ver en GitHub</a>
+      <br>
+<!-- PROYECTO 1 -->
+      <a href="https://github.com/ChasquiBus/chasquibus-web-front.git" target="_blank">
+        <img
+          src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+          alt="GitHub"
+          width="26"
+        />
+      </a>
     </td>
 <!-- PROYECTO 1 -->
     <td align="center" style="vertical-align: top; padding: 8px;">
@@ -107,12 +115,20 @@
       <br>
       <strong>📄 Facturador</strong><br>
       <sub>Aplicación para gestión de facturas</sub><br>
-      <a href="https://github.com/KevinGanan/Facturador.git" target="_blank">🔗 Ver en GitHub</a>
+      <br>
+<!-- PROYECTO 1 -->
+      <a href="https://github.com/KevinGanan/Facturador.git" target="_blank">
+        <img
+          src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+          alt="GitHub"
+          width="26"
+        />
+      </a>
     </td>
   </tr>
 
   <tr>
-<!-- PROYECTO 1 -->
+    <!-- PROYECTO 3 -->
     <td align="center" style="vertical-align: top; padding: 8px;">
       <a href="https://github.com/KevinGanan/AppReceta.git" target="_blank">
         <img
@@ -124,7 +140,15 @@
       <br>
       <strong>🍳 App Recetas</strong><br>
       <sub>Aplicación para explorar recetas</sub><br>
-      <a href="https://github.com/KevinGanan/AppReceta.git" target="_blank">🔗 Ver en GitHub</a>
+      <br>
+<!-- PROYECTO 1 -->
+      <a href="https://github.com/KevinGanan/AppReceta.git" target="_blank">
+        <img
+          src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+          alt="GitHub"
+          width="26"
+        />
+      </a>
     </td>
 <!-- PROYECTO 1 -->
     <td align="center" style="vertical-align: top; padding: 8px;">
@@ -138,12 +162,68 @@
       <br>
       <strong>🛒 ItutiShop</strong><br>
       <sub>Tienda online con carrito de compras</sub><br>
-      <a href="https://github.com/KevinGanan/ItutiShop.git" target="_blank">🔗 Ver en GitHub</a>
+      <br>
+<!-- PROYECTO 1 -->
+      <a href="https://github.com/KevinGanan/ItutiShop.git" target="_blank">
+        <img
+          src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+          alt="GitHub"
+          width="26"
+        />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- PROYECTO 5 -->
+    <td align="center" style="vertical-align: top; padding: 8px;">
+      <a href="https://github.com/KevinGanan/Clothes.git" target="_blank">
+        <img
+          src="https://github.com/KevinGanan/assets/blob/main/proyect.png?raw=true"
+          alt="App Clothes"
+          width="300"
+        />
+      </a>
+      <br>
+      <strong>🍳 App Clothes</strong><br>
+      <sub>Aplicación para encontrar ropa adecuada a ti!</sub><br>
+      <br>
+<!-- PROYECTO 1 -->
+      <a href="https://github.com/KevinGanan/Clothes.git" target="_blank">
+        <img
+          src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+          alt="GitHub"
+          width="26"
+        />
+      </a>
+    </td>
+    <!-- PROYECTO 6 -->
+    <td align="center" style="vertical-align: top; padding: 8px;">
+      <a href="https://github.com/KevinGanan/QuejasyReclamos.git" target="_blank">
+        <img
+          src="https://github.com/KevinGanan/assets/blob/main/proyect2.png?raw=true"
+          alt="Quejas y Reclamos"
+          width="300"
+        />
+      </a>
+      <br>
+      <strong>Quejas y Reclamos</strong><br>
+      <sub>Tienes derecho a realizar tu Queja/Reclamo</sub><br>
+      <br>
+<!-- PROYECTO 1 -->
+      <a href="https://github.com/KevinGanan/QuejasyReclamos.git" target="_blank">
+        <img
+          src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+          alt="GitHub"
+          width="26"
+        />
+      </a>
     </td>
   </tr>
 </table>
 
 <br>
+
 
 <h2>📊 GitHub Stats</h2>
 
@@ -151,18 +231,6 @@
   
 <!-- Stats Grid -->
 <table>
-<tr>
-<td width="50%" align="center">
-  
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinGanan&show_icons=true&theme=radical&count_private=true)
-
-</td>
-<td width="50%" align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinGanan&layout=compact&theme=radical&langs_count=6)
-
-</td>
-</tr>
 <tr>
 <td colspan="2" align="center">
 
