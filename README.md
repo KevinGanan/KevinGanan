@@ -77,27 +77,213 @@
 
 <br>
 
-<h2>📂 Proyectos en Desarrollo</h2>
+<h2>📂 Proyectos Destacados</h2>
 
 <div align="center">
+
+<!-- Fila 1 - 2 columnas -->
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 25px; margin: 30px 0;">
+
+<!-- Proyecto 1: ChasquiBus -->
+<div style="background: linear-gradient(145deg, #0f172a, #1e293b); padding: 25px; border-radius: 20px; border-left: 6px solid #3B82F6; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);">
   
-| Proyecto | Descripción | Tecnologías | Estado |
-|----------|-------------|-------------|--------|
-| **🎯 Portafolio Web** | Página personal para mostrar proyectos | HTML, CSS, JS | <img src="https://img.shields.io/badge/📋-Planificación-yellow"> |
-| **📱 App Estudiantil** | Sistema de gestión para estudiantes | Java, MySQL | <img src="https://img.shields.io/badge/⏳-Próximo_semestre-orange"> |
+  <!-- Imagen del proyecto -->
+  <div style="margin-bottom: 20px; text-align: center;">
+    <img src="https://github.com/KevinGanan/assets/blob/main/Anotaci%C3%B3n%202025-12-02%20203742.png?raw=true" 
+         alt="ChasquiBus - Sistema de Transporte" 
+         style="width: 100%; max-height: 200px; object-fit: cover; border-radius: 12px; border: 3px solid #3B82F6;" />
+  </div>
+  
+  <!-- Título y descripción -->
+  <h3 style="color: #3B82F6; margin-top: 0; margin-bottom: 15px; text-align: center;">
+    🚌 ChasquiBus Web
+  </h3>
+  
+  <p style="color: #cbd5e1; line-height: 1.6; margin-bottom: 20px; text-align: center;">
+    Sistema web para gestión de transporte público con reserva de asientos, rutas y horarios en tiempo real.
+  </p>
+  
+  <!-- Tecnologías -->
+  <div style="margin-bottom: 20px; text-align: center;">
+    <span style="color: #94a3b8; font-size: 0.9em; display: block; margin-bottom: 8px;">🛠️ Tecnologías utilizadas:</span>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
+      <span style="background: #61DAFB; color: black; padding: 6px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">React</span>
+      <span style="background: #38B2AC; color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">Tailwind</span>
+      <span style="background: #F7DF1E; color: black; padding: 6px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">JavaScript</span>
+    </div>
+  </div>
+  
+  <!-- Estado y botón -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 25px;">
+    <span style="background: #10B981; color: white; padding: 6px 15px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">
+      ✅ Completado
+    </span>
+    <a href="https://github.com/ChasquiBus/chasquibus-web-front.git" target="_blank" style="text-decoration: none;">
+      <button style="background: linear-gradient(90deg, #3B82F6, #1D4ED8); color: white; border: none; padding: 10px 20px; border-radius: 10px; cursor: pointer; font-weight: bold; display: flex; align-items: center; gap: 8px; transition: all 0.3s;">
+        <svg style="width: 20px; height: 20px;" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" clip-rule="evenodd"></path>
+        </svg>
+        Ver Repositorio
+      </button>
+    </a>
+  </div>
+  
+</div>
 
-<br>
-<p><i>🚀 Próximamente más proyectos a medida que avance en mi formación académica.</i></p>
+<!-- Proyecto 2: Portafolio Web -->
+<div style="background: linear-gradient(145deg, #0f172a, #1e293b); padding: 25px; border-radius: 20px; border-left: 6px solid #10B981; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);">
+  
+  <!-- Imagen placeholder con icono -->
+  <div style="margin-bottom: 20px; text-align: center; background: #0d1117; padding: 40px; border-radius: 12px; border: 3px dashed #10B981;">
+    <span style="font-size: 60px; color: #10B981;">🌐</span>
+    <p style="color: #94a3b8; margin-top: 10px; font-size: 0.9em;">Preview próximamente</p>
+  </div>
+  
+  <!-- Título y descripción -->
+  <h3 style="color: #10B981; margin-top: 0; margin-bottom: 15px; text-align: center;">
+    🎯 Portafolio Personal
+  </h3>
+  
+  <p style="color: #cbd5e1; line-height: 1.6; margin-bottom: 20px; text-align: center;">
+    Sitio web personal responsivo que muestra mis proyectos, habilidades y experiencia como desarrollador.
+  </p>
+  
+  <!-- Tecnologías -->
+  <div style="margin-bottom: 20px; text-align: center;">
+    <span style="color: #94a3b8; font-size: 0.9em; display: block; margin-bottom: 8px;">🛠️ Tecnologías:</span>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
+      <span style="background: #E34F26; color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">HTML5</span>
+      <span style="background: #1572B6; color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">CSS3</span>
+      <span style="background: #F7DF1E; color: black; padding: 6px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">JavaScript</span>
+    </div>
+  </div>
+  
+  <!-- Estado y botón -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 25px;">
+    <span style="background: #F59E0B; color: black; padding: 6px 15px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">
+      🚀 En desarrollo
+    </span>
+    <a href="https://github.com/KevinGanan/portfolio" target="_blank" style="text-decoration: none;">
+      <button style="background: linear-gradient(90deg, #10B981, #059669); color: white; border: none; padding: 10px 20px; border-radius: 10px; cursor: pointer; font-weight: bold; display: flex; align-items: center; gap: 8px;">
+        <svg style="width: 20px; height: 20px;" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" clip-rule="evenodd"></path>
+        </svg>
+        Ver Repositorio
+      </button>
+    </a>
+  </div>
+  
+</div>
 
 </div>
 
-<br>
+<!-- Fila 2 - 2 columnas -->
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 25px; margin: 30px 0;">
 
-<hr>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<!-- Proyecto 3: App Estudiantil -->
+<div style="background: linear-gradient(145deg, #0f172a, #1e293b); padding: 25px; border-radius: 20px; border-left: 6px solid #8B5CF6; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);">
+  
+  <!-- Icono en lugar de imagen -->
+  <div style="margin-bottom: 20px; text-align: center;">
+    <div style="background: linear-gradient(135deg, #8B5CF6, #7C3AED); width: 80px; height: 80px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
+      <span style="font-size: 40px;">📱</span>
+    </div>
+  </div>
+  
+  <!-- Título y descripción -->
+  <h3 style="color: #8B5CF6; margin-top: 0; margin-bottom: 15px; text-align: center;">
+    🎓 App Estudiantil
+  </h3>
+  
+  <p style="color: #cbd5e1; line-height: 1.6; margin-bottom: 20px; text-align: center;">
+    Sistema de gestión académica para estudiantes con control de notas, horarios y tareas pendientes.
+  </p>
+  
+  <!-- Tecnologías -->
+  <div style="margin-bottom: 20px; text-align: center;">
+    <span style="color: #94a3b8; font-size: 0.9em; display: block; margin-bottom: 8px;">🛠️ Tecnologías:</span>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
+      <span style="background: #ED8B00; color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">Java</span>
+      <span style="background: #4479A1; color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">MySQL</span>
+      <span style="background: #007396; color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">Swing</span>
+    </div>
+  </div>
+  
+  <!-- Estado y botón -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 25px;">
+    <span style="background: #F59E0B; color: black; padding: 6px 15px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">
+      📋 Planificación
+    </span>
+    <a href="https://github.com/KevinGanan/student-app" target="_blank" style="text-decoration: none;">
+      <button style="background: linear-gradient(90deg, #8B5CF6, #7C3AED); color: white; border: none; padding: 10px 20px; border-radius: 10px; cursor: pointer; font-weight: bold; display: flex; align-items: center; gap: 8px;">
+        <svg style="width: 20px; height: 20px;" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" clip-rule="evenodd"></path>
+        </svg>
+        Ver Repositorio
+      </button>
+    </a>
+  </div>
+  
 </div>
-<br>
+
+<!-- Proyecto 4: API REST -->
+<div style="background: linear-gradient(145deg, #0f172a, #1e293b); padding: 25px; border-radius: 20px; border-left: 6px solid #EF4444; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);">
+  
+  <!-- Icono en lugar de imagen -->
+  <div style="margin-bottom: 20px; text-align: center;">
+    <div style="background: linear-gradient(135deg, #EF4444, #DC2626); width: 80px; height: 80px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
+      <span style="font-size: 40px;">⚡</span>
+    </div>
+  </div>
+  
+  <!-- Título y descripción -->
+  <h3 style="color: #EF4444; margin-top: 0; margin-bottom: 15px; text-align: center;">
+    🔧 API REST
+  </h3>
+  
+  <p style="color: #cbd5e1; line-height: 1.6; margin-bottom: 20px; text-align: center;">
+    API backend con autenticación JWT, CRUD completo y documentación con Swagger.
+  </p>
+  
+  <!-- Tecnologías -->
+  <div style="margin-bottom: 20px; text-align: center;">
+    <span style="color: #94a3b8; font-size: 0.9em; display: block; margin-bottom: 8px;">🛠️ Tecnologías:</span>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
+      <span style="background: #339933; color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">Node.js</span>
+      <span style="background: #000000; color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">Express</span>
+      <span style="background: #47A248; color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">MongoDB</span>
+    </div>
+  </div>
+  
+  <!-- Estado y botón -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 25px;">
+    <span style="background: #6B7280; color: white; padding: 6px 15px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">
+      💡 En ideas
+    </span>
+    <a href="https://github.com/KevinGanan/api-rest" target="_blank" style="text-decoration: none;">
+      <button style="background: linear-gradient(90deg, #EF4444, #DC2626); color: white; border: none; padding: 10px 20px; border-radius: 10px; cursor: pointer; font-weight: bold; display: flex; align-items: center; gap: 8px;">
+        <svg style="width: 20px; height: 20px;" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" clip-rule="evenodd"></path>
+        </svg>
+        Ver Repositorio
+      </button>
+    </a>
+  </div>
+  
+</div>
+
+</div>
+
+</div>
+
+<!-- Nota al pie -->
+<div align="center" style="margin-top: 40px; padding: 20px; background: rgba(59, 130, 246, 0.1); border-radius: 15px; border-left: 5px solid #3B82F6;">
+  <p style="color: #cbd5e1; margin: 0; font-size: 1.1em;">
+    💡 <strong>Nota:</strong> Estos proyectos representan mi evolución como desarrollador. 
+    Desde aplicaciones colaborativas como <strong>ChasquiBus</strong> hasta proyectos personales 
+    que me permiten explorar nuevas tecnologías y metodologías.
+  </p>
+</div>
 
 <h2>📊 GitHub Stats</h2>
 
