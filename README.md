@@ -20,7 +20,7 @@
 <h2>🙋‍♂️ Sobre Mí</h2>
 
 <p align="left">
-🎓 <strong>ESTUDIANTE DE INGENIERÍA EN SOFTWARE</strong> en la Universidad Técnica de Ambato<br>
+🎓 <strong>INGENIERO DE SOFTWARE</strong> 
 📍 <strong>Ambato, Ecuador</strong> | <strong>22 años</strong><br>
 💻 <strong>Apasionado</strong> por la tecnología y el desarrollo de software<br>
 🚀 <strong>Objetivo:</strong> Crear soluciones innovadoras que impacten positivamente<br>
@@ -60,8 +60,8 @@
 ### 🎓 Formación Académica
 | Nivel Educativo | Institución | Periodo | Estado |
 |----------------|-------------|---------|--------|
-| **Ingeniería en Software** | Universidad Técnica de Ambato | 2025 | <img src="https://img.shields.io/badge/✅-Completado-green?style=flat-square"> |
-| **Bachillerato General** | Unidad Educativa Giovanni Calles | 2019 | <img src="https://img.shields.io/badge/✅-Completado-green?style=flat-square"> |
+| **Ingeniería en Software** | Universidad Técnica de Ambato | 2026 | <img src="https://img.shields.io/badge/✅-Completado-green?style=flat-square"> |
+| **Bachillerato General** | Unidad Educativa Giovanni Calles | 2020 | <img src="https://img.shields.io/badge/✅-Completado-green?style=flat-square"> |
 
 <br>
 
