@@ -60,7 +60,7 @@
 ### 🎓 Formación Académica
 | Nivel Educativo | Institución | Periodo | Estado |
 |----------------|-------------|---------|--------|
-| **Ingeniería en Software** | Universidad Técnica de Ambato | 2025 | <img src="https://img.shields.io/badge/🔄-En_curso-blue?style=flat-square"> |
+| **Ingeniería en Software** | Universidad Técnica de Ambato | 2025 | <img src="https://img.shields.io/badge/✅-Completado-green?style=flat-square"> |
 | **Bachillerato General** | Unidad Educativa Giovanni Calles | 2019 | <img src="https://img.shields.io/badge/✅-Completado-green?style=flat-square"> |
 
 <br>
